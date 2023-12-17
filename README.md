@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TresLanghorne
-- 👀 I’m interested in C# and TypeScript development
-- 🌱 I’m currently learning asp.net MVC and React
+- 👀 I’m interested in C and JavaScript development, using Linux
+- 🌱 I’m currently learning CI/CD while creating my own blog
+- 🛠️ I'm always eager to learn new technologies and tools
 - 📫 How to reach me treslanghorne@outlook.com
 
 <!---
